@@ -9,11 +9,11 @@
 .menuTitle {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 300;
-  font-size: 25px;
+  font-size: 40px;
   margin: -5px 0px;
 }
 
-.list {
+.menuList {
   column-count: 2;
 }
 
@@ -52,7 +52,7 @@
 
 .menuButton{
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 12px;
+  font-size: px;
   padding: 8px;
   margin: 8px 8px 8px 0px;
   font-weight:500;

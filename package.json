@@ -30,7 +30,7 @@
     "nodemon": "^2.0.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "webpack": "^4.41.2"
   },
   "devDependencies": {
